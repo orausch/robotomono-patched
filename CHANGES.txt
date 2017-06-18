@@ -1,0 +1,7 @@
+Changes to the original software:
+
+Metadata of the fonts have been modified so that the subfamily fields of the fonts now contain the correct subfamily. These changes have been made in the following files:
+
+RobotoMono-Light.ttf
+RobotoMono-Thin.ttf
+RobotoMono-Medium.ttf
